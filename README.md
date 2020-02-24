@@ -1,2 +1,4 @@
 # prueba
 PruebaTuto
+
+Comandos git 
